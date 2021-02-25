@@ -1,1 +1,1 @@
-# MD-VAE-grading
+# MMD-VAE-grading
